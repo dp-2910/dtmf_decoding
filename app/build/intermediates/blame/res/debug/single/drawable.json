@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/audio.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/audio.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/recording_icon.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/recording_icon.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/first_screen_icon.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/first_screen_icon.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable/call_log.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable/call_log.png"
+    }
+]

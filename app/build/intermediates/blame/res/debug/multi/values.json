@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endLine": 17,
+                        "endColumn": 19,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endLine": 22,
+                        "endColumn": 19,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 51,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 60,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 60,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endColumn": 60,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 60,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 72,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 72,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 456
+                    }
+                }
+            }
+        ]
+    }
+]

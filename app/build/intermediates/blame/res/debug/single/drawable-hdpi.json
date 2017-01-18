@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable-hdpi/audio.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable-hdpi/audio.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable-hdpi/like.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable-hdpi/like.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable-hdpi/background.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable-hdpi/rateus.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable-hdpi/rateus.png"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/drawable-hdpi/shareapp.png",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/drawable-hdpi/shareapp.png"
+    }
+]

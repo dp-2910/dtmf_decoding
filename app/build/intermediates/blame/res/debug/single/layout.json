@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/call_log.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/call_log.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/rowlayout.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/rowlayout.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/player.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/player.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/preferences.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/preferences.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/layout/splash.xml"
+    }
+]

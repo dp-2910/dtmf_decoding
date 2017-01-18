@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="PREF_RECORD_CALLS"
+        android:summary="Select to turn on recording of all calls"
+        android:title="Record calls" />
+
+    <ListPreference
+        android:defaultValue="1"
+        android:dialogIcon="@drawable/audio"
+        android:dialogTitle="Audio source"
+        android:entries="@array/audio_source_options"
+        android:entryValues="@array/audio_source_values"
+        android:key="PREF_AUDIO_SOURCE"
+        android:summary="Select the audio source to record from during calls"
+        android:title="Audio source" />
+    
+    <ListPreference
+        android:defaultValue="1"
+        android:dialogIcon="@drawable/audio"
+        android:dialogTitle="Audio format"
+        android:entries="@array/audio_format_options"
+        android:entryValues="@array/audio_format_values"
+        android:key="PREF_AUDIO_FORMAT"
+        android:summary="Select the file format to use for call recordings"
+        android:title="Recording file format" />
+
+</PreferenceScreen>

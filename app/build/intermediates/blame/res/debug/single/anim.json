@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/anim/slide.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/anim/slide.xml"
+    },
+    {
+        "merged": "/home/android/Dhaval /Android_Project/CallRecorder/app/build/intermediates/res/merged/debug/anim/myanimation.xml",
+        "source": "/home/android/Dhaval /Android_Project/CallRecorder/app/src/main/res/anim/myanimation.xml"
+    }
+]

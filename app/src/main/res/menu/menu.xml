@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item 
+         Set id, icon and Title for each menu item
+    -->
+    <item
+        android:id="@+id/likeus"
+        android:icon="@drawable/like"
+        android:title="Likeus" />
+
+    <item
+        android:id="@+id/rateus"
+        android:icon="@drawable/rateus"
+        android:title="Rateus" />
+
+    <item
+        android:id="@+id/shareapp"
+        android:icon="@drawable/shareapp"
+        android:title="Shareapp" />
+
+</menu>
